@@ -27,3 +27,11 @@ After detection and analysis, the billboard has the ability to produce programme
 While the cameras can be used to gather valuable information for tailoring marketing campaigns, they can also be used for interactive advertising. 
 
 Some agencies have even added interactive games for onlookers, using different campaigns that might include participating in a staring contest, performing a silly gesture, or dancing along with the content. The ad reacts according to the interactions and changes accordingly. Just think of how engaging this kind of ad can be when marketing to families with crowds and small children. 
+
+# video
+
+https://user-images.githubusercontent.com/92615235/168473582-9dc40478-3e2e-4886-a52a-c2f30cf44675.mp4
+
+
+
+
